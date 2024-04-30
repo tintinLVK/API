@@ -144,7 +144,7 @@
                     "summary": "Get information about on music",
                     "tags": ["music"],
                     "parameters": {
-                        "-in": "path",
+                        "in": "path",
                         "name": "id",
                         "schema": {
                             "type": "integer"
