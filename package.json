@@ -11,6 +11,10 @@
   "dependencies": {
     "express": "^4.19.2",
     "nodemon": "^3.1.0",
+<<<<<<< HEAD
+=======
+    "swagger-jsdoc": "^6.2.8",
+>>>>>>> 25b648983f919edf4a63182a92d00b34fefda604
     "swagger-ui-express": "^5.0.0"
   }
 }
