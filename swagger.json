@@ -109,18 +109,18 @@
                             "description": "Some server error"
                         }
                     }
-
                 },
                 "post": {
                     "summary": "Permet d'ajouter une musique a la bdd.",
-                    "tags": ["music"],
+                    "tags": [
+                        "music"
+                    ],
                     "requestBody": {
                         "required": true,
                         "content": {
                             "application/json": {
                                 "schema": {
                                     "$ref": "#/components/schemas/music"
-                                    
                                 }
                             }
                         }
@@ -142,16 +142,20 @@
             "/music/{id}": {
                 "get": {
                     "summary": "Get information about on music",
-                    "tags": ["music"],
-                    "parameters": {
-                        "in": "path",
-                        "name": "id",
-                        "schema": {
-                            "type": "integer"
-                        },
-                        "required": true,
-                        "description": "Id of the music"
-                    },
+                    "tags": [
+                        "music"
+                    ],
+                    "parameters": [
+                        {
+                            "in": "path",
+                            "name": "id",
+                            "schema": {
+                                "type": "integer"
+                            },
+                            "required": true,
+                            "description": "Id of the music"
+                        }
+                    ],
                     "responses": {
                         "200": {
                             "description": "music when id it ok",
@@ -189,7 +193,9 @@
             "/music/random": {
                 "get": {
                     "summary": "Permet de récuperer une musique aléatoire",
-                    "tags": ["music"],
+                    "tags": [
+                        "music"
+                    ],
                     "responses": {
                         "200": {
                             "description": "La musique selectionner alétaoirement.",
