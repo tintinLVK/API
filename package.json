@@ -1,18 +1,27 @@
 {
   "name": "api_jukebox",
   "version": "1.0.0",
-  "description": "",
+  "description": "Ce qu'il faut dans la requête",
   "main": "serveur.js",
   "scripts": {
     "dev": "nodemon serveur.js",
     "start": "node serveur.js"
   },
-  "author": "",
+  "author": "tintinLVK",
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
     "nodemon": "^3.1.0",
     "swagger-jsdoc": "^6.2.8",
     "swagger-ui-express": "^5.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tintinLVK/API.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tintinLVK/API/issues"
+  },
+  "homepage": "https://github.com/tintinLVK/API#readme"
 }
