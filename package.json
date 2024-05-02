@@ -10,12 +10,12 @@
   "author": "tintinLVK",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.19.2",
     "nodemon": "^3.1.0",
     "swagger-jsdoc": "^6.2.8",
     "swagger-ui-express": "^5.0.0"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tintinLVK/API.git"
