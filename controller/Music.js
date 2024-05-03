@@ -1,5 +1,5 @@
 //const data = require("./../models/data.json");
-const Music = require("../models/Music");
+const Music = require("../model/Music");
 
 const controllerMusic = {
   find: async (req, res) => {

@@ -9,7 +9,7 @@ const swaggerUi = require("swagger-ui-express");
 const swaggerJsdoc = require("swagger-jsdoc");
 const options = require("./swagger.json");
 const specs = swaggerJsdoc(options);
-const Music = require("./models/Music");
+const Music = require("./model/Music");
 const { SELECT } = require("sequelize/lib/query-types");
 
 app.use(cors());

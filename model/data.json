@@ -3,64 +3,61 @@
         "id" : 1,
         "artiste": "Gazo",
         "cover" : "notredame.jpeg",
-        "sound" : "GazoTiakola.mp3",
-        "title" : "Notre-Dame - Gazo ft. Tiakola",
-        "category" : "Pop Urbaine"
+        "lien" : "GazoTiakola.mp3",
+        "nom" : "Notre-Dame - Gazo ft. Tiakola"
     },
     {
         "id" : 2,
         "artiste": "Kaaris",
         "cover" : "panama.jpeg",
-        "sound" : "Panama.mp3",
-        "title" : "Panama - Kaaris",
-        "category" : "Rap"
+        "lien" : "Panama.mp3",
+        "nom" : "Panama - Kaaris"
     },
     {
         "id" : 3,
         "artiste": "PLK",
         "cover" : "fautpas.jpeg",
-        "sound" : "PLK_ft_JUL-Faut_pas.mp3",
-        "title" : "Faut pas - PLK ft. JUL",
-        "category" : "Pop Urbaine"
+        "lien" : "PLK_ft_JUL-Faut_pas.mp3",
+        "nom" : "Faut pas - PLK ft. JUL"
+
     },
     {
         "id" : 4,
         "artiste": "Werenoi",
         "cover" : "Pyramide.jpeg",
-        "sound" : "Werenoi_ft_Damso-Pyramide.mp3",
-        "title" : "Pyramide - Werenoi ft. Damso",
-        "category" : "Rap"
+        "lien" : "Werenoi_ft_Damso-Pyramide.mp3",
+        "nom" : "Pyramide - Werenoi ft. Damso"
+
     },
     {
         "id" : 5,
         "artiste": "Maes",
         "cover" : "4motion.jpeg",
-        "sound" : "Maes_4Motion.mp3",
-        "title" : "4Motion - Maes ft. PLK",
-        "category" : "Pop Urbaine"
+        "lien" : "Maes_4Motion.mp3",
+        "nom" : "4Motion - Maes ft. PLK"
+
     },
     {
         "id" : 6,
         "artiste": "Keblack",
         "cover" : "boucan.jpeg",
-        "sound" : "Keblack_Ft_Franglish-Boucan.mp3",
-        "title" : "Boucan - Keblack ft. Franglish",
-        "category" : "Pop"
+        "lien" : "Keblack_Ft_Franglish-Boucan.mp3",
+        "nom" : "Boucan - Keblack ft. Franglish"
     },
     {
         "id" : 7,
         "artiste": "Kaaris",
         "cover" : "arret.jpg",
-        "sound" : "Kalash_Criminel_ft_Kaaris-Arrêt du cœur.mp3",
-        "title" : "Arrêt du cœur - Kalash Criminel ft. Kaaris",
-        "category" : "Rap"
+        "lien" : "Kalash_Criminel_ft_Kaaris-Arrêt du cœur.mp3",
+        "nom" : "Arrêt du cœur - Kalash Criminel ft. Kaaris"
+
     },
     {
         "id" : 8,
         "artiste": "Kaaris",
         "cover" : "zoo.jpeg",
-        "sound" : "Kaaris_Zoo.mp3",
-        "title" : "Zoo - Kaaris",
-        "category" : "Rap"
+        "lien" : "Kaaris_Zoo.mp3",
+        "nom" : "Zoo - Kaaris"
+
     }
 ]
