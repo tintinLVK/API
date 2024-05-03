@@ -1,16 +1,66 @@
 [
     {
-        "id": 1,
-        "cover": "lose_control_cover.jpg",
-        "sound": "Teddy_Swims-Lose_Control.mp3",
-        "title": "Lose Control",
-        "category": "pop"
+        "id" : 1,
+        "artiste": "Gazo",
+        "cover" : "notredame.jpeg",
+        "sound" : "GazoTiakola.mp3",
+        "title" : "Notre-Dame - Gazo ft. Tiakola",
+        "category" : "Pop Urbaine"
     },
     {
-        "id": 2,
-        "cover": "the_sound_of_silence_cover.jpg",
-        "sound": "Disturbed-The_Sound_Of_Silence.mp3",
-        "title": "The Sound of Silence",
-        "category": "pop"
+        "id" : 2,
+        "artiste": "Kaaris",
+        "cover" : "panama.jpeg",
+        "sound" : "Panama.mp3",
+        "title" : "Panama - Kaaris",
+        "category" : "Rap"
+    },
+    {
+        "id" : 3,
+        "artiste": "PLK",
+        "cover" : "fautpas.jpeg",
+        "sound" : "PLK_ft_JUL-Faut_pas.mp3",
+        "title" : "Faut pas - PLK ft. JUL",
+        "category" : "Pop Urbaine"
+    },
+    {
+        "id" : 4,
+        "artiste": "Werenoi",
+        "cover" : "Pyramide.jpeg",
+        "sound" : "Werenoi_ft_Damso-Pyramide.mp3",
+        "title" : "Pyramide - Werenoi ft. Damso",
+        "category" : "Rap"
+    },
+    {
+        "id" : 5,
+        "artiste": "Maes",
+        "cover" : "4motion.jpeg",
+        "sound" : "Maes_4Motion.mp3",
+        "title" : "4Motion - Maes ft. PLK",
+        "category" : "Pop Urbaine"
+    },
+    {
+        "id" : 6,
+        "artiste": "Keblack",
+        "cover" : "boucan.jpeg",
+        "sound" : "Keblack_Ft_Franglish-Boucan.mp3",
+        "title" : "Boucan - Keblack ft. Franglish",
+        "category" : "Pop"
+    },
+    {
+        "id" : 7,
+        "artiste": "Kaaris",
+        "cover" : "arret.jpg",
+        "sound" : "Kalash_Criminel_ft_Kaaris-Arrêt du cœur.mp3",
+        "title" : "Arrêt du cœur - Kalash Criminel ft. Kaaris",
+        "category" : "Rap"
+    },
+    {
+        "id" : 8,
+        "artiste": "Kaaris",
+        "cover" : "zoo.jpeg",
+        "sound" : "Kaaris_Zoo.mp3",
+        "title" : "Zoo - Kaaris",
+        "category" : "Rap"
     }
 ]
