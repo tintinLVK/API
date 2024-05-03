@@ -1,5 +1,5 @@
 const { DataTypes } = require("sequelize");
-const connexion = require("./../DB/dbconnect");
+const connexion = require("./../db/dbconnect");
 
 const Music = connexion.define("Music", {
   // Model attributes are defined here
