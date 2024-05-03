@@ -1,6 +1,6 @@
 const express = require("express");
 const cors = require("cors");
-const connexion = require("./DB/dbconnect");
+const connexion = require("./db/dbconnect");
 const app = express();
 const port = 3000;
 const version = "v1";
